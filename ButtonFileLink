@@ -1,7 +1,7 @@
 # This is for the Button Icon.
 # List of Button, using to fix up the table.
 # <en>English, <cn>Chinese, <rl>FileLink, <tx>Text, <tr>Introduction,
-# <*en>CampaignContent, <*cn>Mercenary, (s)SPACE, 
+# <*en>CampaignContent/COOP, <*cn>Mercenary/Aiur/Purifier/Nerazim/Dark, (S)SPACE, (H)HERO,
 
 
 # Terran Infantry Unit
@@ -48,28 +48,59 @@
 <*en> VikingMercenary-Fighter  <*cn> 地狱天使  <rl> Assets\Textures\btn-unit-terran-vikingmercenary-fighter.dds  <tx> 创造地狱天使
 <*en> BansheeMercenary  <*cn> 黄昏之翼  <rl> Assets\Textures\btn-unit-terran-bansheemercenary.dds  <tx> 创造黄昏之翼
 <*en> BattlecruiserLoki  <*cn> 杰克森的复仇号  <rl> Assets\Textures\btn-unit-terran-battlecruiserloki.dds  <tx> 创造杰克森的复仇号
-<*en> (s)Valkyrie  <cn> 女武神  <rl> Assets\Textures\btn-unit-terran-valkyrie.dds  <tx> 创造女武神
-<*en> (s)Griffon  <cn> 狮鹫  <rl> Assets\Textures\btn-unit-terran-griffon.dds  <tx> 创造狮鹫
+<*en> (S)Valkyrie  <cn> 女武神  <rl> Assets\Textures\btn-unit-terran-valkyrie.dds  <tx> 创造女武神
+<*en> (S)Griffon  <cn> 狮鹫  <rl> Assets\Textures\btn-unit-terran-griffon.dds  <tx> 创造狮鹫
 
 # Protoss Infantry Unit
-<en>   <cn>   <rl>   <tx> 
-<en>   <cn>   <rl>   <tx> 
-<en>   <cn>   <rl>   <tx> 
-<en>   <cn>   <rl>   <tx> 
-<en>   <cn>   <rl>   <tx> 
-
+<en> HighTemplar  <cn> 高阶圣堂武士  <rl> Assets\Textures\btn-unit-protoss-hightemplar.dds  <tx> 创造高阶圣堂武士
+<en> DarkTemplar  <cn> 黑暗圣堂武士  <rl> Assets\Textures\btn-unit-protoss-darktemplar.dds  <tx> 创造黑暗圣堂武士
+<en> Sentry  <cn> 机械哨兵  <rl> Assets\Textures\btn-unit-protoss-sentry.dds  <tx> 创造机械哨兵
+<en> Zealot  <cn> 狂热者  <rl> Assets\Textures\btn-unit-protoss-zealot.dds  <tx> 创造狂热者
+<en> Stalker  <cn> 追猎者  <rl> Assets\Textures\btn-unit-protoss-stalker.dds  <tx> 创造追猎者
+<en> Probe  <cn> 探机  <rl> Assets\Textures\btn-unit-protoss-probe.dds  <tx> 创造探机
+<en> Archon  <cn> 执政官  <rl> Assets\Textures\btn-unit-protoss-archon.dds  <tx> 创造执政官
+<*en> Probe-Dark  <cn> 凯拉克斯 <rl> Assets\Textures\btn-unit-protoss-probe-dark.dds <tx> 创造凯拉克斯
+<*en> Zealot-Nerazim  <*cn> 百夫长  <rl> Assets\Textures\btn-unit-protoss-zealot-nerazim.dds  <tx> 创造百夫长
+<*en> DarkTemplar-Aiur  <*cn> 复仇者  <rl> Assets\Textures\btn-unit-protoss-darktemplar-aiur.dds  <tx> 创造复仇者
+<*en> Sentry-Taldarim  <*cn> 浩劫  <rl> Assets\Textures\btn-unit-protoss-sentry-taldarim.dds  <tx> 创造浩劫
+<*en> DarkArchon  <cn> 黑暗执政官  <rl> Assets\Textures\talent-vorazun-level05-unlockdarkarchon.dds  <tx> 创造黑暗执政官
+<*en> Sentry-Purifier  <*cn> 激励者  <rl> Assets\Textures\btn-unit-protoss-sentry-purifier.dds  <tx> 创造激励者
+<*en> HighTemplar-Dark  <*cn> 晋升者  <rl> Assets\Textures\btn-unit-protoss-hightemplar-dark.dds  <tx> 创造晋升者
+<*en> Zealot-Purifier  <*cn> 警戒者  <rl> Assets\Textures\btn-unit-protoss-zealot-purifier.dds  <tx> 创造警戒者
+<*en> Zealot-Aiur  <*cn> 狂热者  <rl> Assets\Textures\btn-unit-protoss-zealot-aiur.dds  <tx> 创造狂热者
+<*en> Adept-Purifier  <*cn> 使徒  <rl> Assets\Textures\btn-unit-protoss-adept-purifier.dds  <tx> 创造使徒
+<*en> Darktemplar-Taldarim  <*cn> 鲜血猎手  <rl> Assets\Textures\btn-unit-protoss-darktemplar-taldarim.dds  <tx> 创造鲜血猎手
+<*en> Stalker-Dark  <*cn> 鼓舞者  <rl> Assets\Textures\btn-unit-protoss-stalker-dark.dds  <tx> 创造鼓舞者
+<*en> (H)StoneZealot  <cn> 菲尼克斯  <rl> Assets\Textures\BTN-Unit-Protoss-stonezealot.dds  <tx> 创造菲尼克斯
+ 
 # Protoss Armor Unit
-<en>   <cn>   <rl>   <tx> 
-<en>   <cn>   <rl>   <tx> 
-<en>   <cn>   <rl>   <tx> 
-<en>   <cn>   <rl>   <tx> 
+<en> Immortal  <cn> 不朽者  <rl> Assets\Textures\BTN-Unit-Protoss-Immortal.dds  <tx> 创造不朽者
+<en> Colossus  <cn> 巨像  <rl> Assets\Textures\btn-unit-protoss-colossus.dds  <tx> 创造巨像
+<en> Observer  <cn> 侦测器  <rl> Assets\Textures\btn-unit-protoss-observer.dds  <tx> 创造侦测器
+<en> Warpprism  <cn> 折跃棱镜  <rl> Assets\Textures\btn-unit-protoss-warpprism.dds  <tx> 创造折跃棱镜
+<en> Disruptor  <cn> 干扰者  <rl> Assets\Textures\Btn-unit-protoss-disruptor.dds  <tx> 创造干扰者
+<*en> Colossus-Purifier  <*cn> 巨像  <rl> Assets\Textures\btn-unit-protoss-colossus-purifier.dds  <tx> 创造巨像
+<*en> Colossus-Taldarim  <*cn> 天罚行者  <rl> Assets\Textures\btn-unit-protoss-colossus-taldarim.dds  <tx> 创造天罚行者
+<*en> Immortal-Taldarim.dds  <*cn> 先锋  <rl> Assets\Textures\btn-unit-protoss-immortal-taldarim.dds  <tx> 创造先锋
+<*en> Reaver  <cn> 掠夺者  <rl> Assets\Textures\btn-unit-protoss-reaver.dds  <tx> 创造掠夺者
+<*en> Replicant  <cn> 复制机  <rl> Assets\Textures\btn-unit-protoss-replicant.dds  <tx> 创造复制机
+<*en> Dragoon-Void  <cn> 龙骑士  <rl> Assets\Textures\btn-unit-protoss-dragoon-void.dds  <tx> 创造龙骑士
 
 # Protoss Air Unit
-<en>   <cn>   <rl>   <tx> 
-<en>   <cn>   <rl>   <tx> 
-<en>   <cn>   <rl>   <tx> 
-<en>   <cn>   <rl>   <tx> 
-
+<en> MothershipCore  <cn> 母舰核心  <rl> Assets\Textures\btn-unit-protoss-mothershipcore.dds  <tx> 创造母舰核心
+<en> Oracle  <cn> 先知  <rl> Assets\Textures\btn-unit-protoss-oracle.dds  <tx> 创造先知
+<en> Tempest  <cn> 风暴战舰  <rl> Assets\Textures\btn-unit-protoss-tempest.dds  <tx> 创造风暴战舰
+<en> Phoenix  <cn> 凤凰  <rl> Assets\Textures\btn-unit-protoss-phoenix.dds  <tx> 创造凤凰
+<en> Carrier  <cn> 航母  <rl> Assets\Textures\btn-unit-protoss-carrier.dds  <tx> 创造航母
+<en> Warpray  <cn> 虚空辉光舰  <rl> Assets\Textures\btn-unit-protoss-warpray.dds  <tx> 创造虚空辉光舰
+<en> Scout  <cn> 侦察机  <rl> Assets\Textures\btn-unit-protoss-scout.dds  <tx> 创造侦察机
+<en> Corsair  <cn> 海盗船  <rl> Assets\Textures\btn-unit-protoss-corsair.dds  <tx> 创造海盗船
+<*en> Mothership-Taldarim  <*cn> 母舰塔达林  <rl> Assets\Textures\btn-unit-protoss-mothership-taldarim.dds  <tx> 创造母舰塔达林
+<*en> Phoenix-Purifier  <*cn> 幻影战机  <rl> Assets\Textures\btn-unit-protoss-phoenix-purifier.dds  <tx> 创造幻影战机
+<*en> Voidray-Taldarim  <*cn> 毁灭者  <rl> Assets\Textures\btn-unit-protoss-voidray-taldarim.dds  <tx> 创造毁灭者
+<*en> Carrier-Dark  <*cn> Shakuras  <rl> Assets\Textures\btn-unit-protoss-carrier-dark.dds  <tx> 创造Shakuras
+<*en> Arbiter  <cn> 仲裁者  <rl> Assets\Textures\btn-unit-protoss-arbiter.dds  <tx> 创造仲裁者 
+<*en> (H)Urun  <cn> 尤尔兰  <rl> Assets\Textures\btn-unit-protoss-phoenix-urun.dds  <tx> 创造尤尔兰
 
 # Zerg Infantry Unit
 # Zerg Armor Unit

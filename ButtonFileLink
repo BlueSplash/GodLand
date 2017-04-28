@@ -1,0 +1,89 @@
+# This is for the Button Icon.
+# List of Button, using to fix up the table.
+# <en>English, <cn>Chinese, <rl>FileLink, <tx>Text, <tr>Introduction,
+# <*en>CampaignContent, <*cn>Mercenary, (s)SPACE, 
+
+
+# Terran Infantry Unit
+<en> Marine  <cn> 陆战队员  <rl> Assets\Textures\btn-unit-terran-marine.dds  <tx> 创造陆战队员
+<en> Marauder  <cn> 劫掠者  <rl> Assets\Textures\btn-unit-terran-marauder.dds  <tx> 创造劫掠者
+<en> Reaper  <cn> 收割者  <rl> Assets\Textures\btn-unit-terran-reaper.dds  <tx> 创造收割者
+<en> Firebat  <cn> 火蝠  <rl> Assets\Textures\btn-unit-terran-firebat.dds  <tx> 创造火蝠
+<en> Medic  <cn> 医疗兵  <rl> Assets\Textures\btn-unit-terran-medic.dds  <tx> 创造医疗兵
+<en> Ghost  <cn> 幽灵  <rl> Assets\Textures\btn-unit-terran-ghost.dds  <tx> 创造幽灵
+<en> Spectre  <cn> 幽魂  <rl> Assets\Textures\btn-unit-terran-spectre.dds  <tx> 创造幽魂
+<en> Herc  <cn> 赫克  <rl> Assets\Textures\btn-unit-terran-herc.dds  <tx> 创造赫克
+<*en> FirebatMercenary  <*cn> 恶魔犬  <rl> Assets\Textures\btn-unit-terran-firebatmercenary.dds  <tx> 创造恶魔犬
+<*en> Medicelite  <*cn> 史克比的天使  <rl> Assets\Textures\btn-unit-terran-medicelite.dds  <tx> 创造史克比的天使
+<*en> DeathHead  <*cn> 死神之首  <rl> Assets\Textures\btn-unit-terran-deathhead.dds  <tx> 创造死神之首
+<*en> MarauderMercenary  <*cn> 铁锤安保  <rl> Assets\Textures\btn-unit-terran-maraudermercenary.dds  <tx> 创造铁锤安保
+<*en> MarineMercenary  <*cn> 战地豪猪  <rl> Assets\Textures\btn-unit-terran-marinemercenary.dds  <tx> 创造战地豪猪
+
+# Terran Armor Unit
+<en> Hellion  <cn> 恶火  <rl> Assets\Textures\btn-unit-terran-hellion.dds  <tx> 创造恶火
+<en> Hellionbattlemode  <cn> 恶蝠  rl> Assets\Textures\btn-unit-terran-hellionbattlemode.dds  <tx> 创造恶蝠
+<en> Predator  <cn> 掠食者  <rl> Assets\Textures\btn-unit-terran-predator.dds  <tx> 创造掠食者
+<en> Goliath  <cn> 歌利亚武装机器人  <rl> Assets\Textures\btn-unit-terran-goliath.dds  <tx> 创造歌利亚武装机器人
+<en> SiegeTank  <cn> 攻城坦克  <rl> Assets\Textures\btn-unit-terran-siegetank.dds  <tx> 创造攻城坦克
+<en> WindowMine  <cn> 寡妇雷  <rl> Assets\Textures\btn-unit-terran-widowmine.dds  <tx> 创造寡妇雷
+<en> Cyclone  <cn> 飓风  <rl> Assets\Textures\btn-unit-terran-cyclone.dds  <tx> 创造飓风
+<en> Thor  <cn> 雷神  <rl> Assets\Textures\btn-unit-terran-thor.dds  <tx> 创造雷神
+<en> Vulture  <cn> 秃鹫  <rl> Assets\Textures\btn-unit-terran-vulture.dds  <tx> 创造秃鹫
+<en> Cobra  <cn> 响尾蛇战车  <rl> Assets\Textures\btn-unit-terran-cobra.dds  <tx> 创造响尾蛇战车
+<en> Warhound  <cn> 战狼  <rl> Assets\Textures\btn-unit-terran-warhound.dds  <tx> 创造战狼
+<*en> Ares  <cn> 警戒机器人  <rl> Assets\Textures\btn-unit-terran-ares.dds  <tx> 创造警戒机器人
+<*en> SiegeTankMercenary-Tank  <*cn> 突围者  <rl> Assets\Textures\btn-unit-terran-siegetankmercenary-tank.dds  <tx> 创造突围者
+<*en> GoliathMercenary  <*cn> 斯巴达联队  <rl> Assets\Textures\btn-unit-terran-goliathmercenary.dds  <tx> 创造斯巴达联队
+<*en> HellionMercenary  <*cn> 内陆猎手  <rl> Assets\Textures\BTN-Unit-Terran-HellionMercenary.dds  <tx> 创造内陆猎手
+
+# Terran Air Unit
+<en> VikingFighter  <cn> 维京战机  <rl> Assets\Textures\btn-unit-terran-vikingfighter.dds  <tx> 创造维京战机
+<en> Medivac  <cn> 医疗运输机  <rl> Assets\Textures\btn-unit-terran-medivac.dds  <tx> 创造医疗运输机
+<en> Wraith  <cn> 怨灵战机  <rl> Assets\Textures\btn-unit-terran-wraith.dds  <tx> 创造怨灵战机
+<en> Raven  <cn> 铁鸦  <rl> Assets\Textures\btn-unit-terran-raven.dds  <tx> 创造铁鸦
+<en> Banshee  <cn> 女妖  <rl> Assets\Textures\btn-unit-terran-banshee.dds  <tx> 创造女妖
+<en> ScienceVessel  <cn> 科学船  <rl> Assets\Textures\btn-unit-terran-sciencevessel.dds  <tx> 创造科学船
+<en> Hercules  <cn> 大力神  <rl> Assets\Textures\btn-unit-terran-hercules.dds  <tx> 创造大力神
+<en> Battlecruiser  <cn> 战列巡航舰  <rl> Assets\Textures\btn-unit-terran-battlecruiser.dds  <tx> 创造战列巡航舰
+<*en> VikingMercenary-Fighter  <*cn> 地狱天使  <rl> Assets\Textures\btn-unit-terran-vikingmercenary-fighter.dds  <tx> 创造地狱天使
+<*en> BansheeMercenary  <*cn> 黄昏之翼  <rl> Assets\Textures\btn-unit-terran-bansheemercenary.dds  <tx> 创造黄昏之翼
+<*en> BattlecruiserLoki  <*cn> 杰克森的复仇号  <rl> Assets\Textures\btn-unit-terran-battlecruiserloki.dds  <tx> 创造杰克森的复仇号
+<*en> (s)Valkyrie  <cn> 女武神  <rl> Assets\Textures\btn-unit-terran-valkyrie.dds  <tx> 创造女武神
+<*en> (s)Griffon  <cn> 狮鹫  <rl> Assets\Textures\btn-unit-terran-griffon.dds  <tx> 创造狮鹫
+
+# Protoss Infantry Unit
+<en>   <cn>   <rl>   <tx> 
+<en>   <cn>   <rl>   <tx> 
+<en>   <cn>   <rl>   <tx> 
+<en>   <cn>   <rl>   <tx> 
+<en>   <cn>   <rl>   <tx> 
+
+# Protoss Armor Unit
+<en>   <cn>   <rl>   <tx> 
+<en>   <cn>   <rl>   <tx> 
+<en>   <cn>   <rl>   <tx> 
+<en>   <cn>   <rl>   <tx> 
+
+# Protoss Air Unit
+<en>   <cn>   <rl>   <tx> 
+<en>   <cn>   <rl>   <tx> 
+<en>   <cn>   <rl>   <tx> 
+<en>   <cn>   <rl>   <tx> 
+
+
+# Zerg Infantry Unit
+# Zerg Armor Unit
+# Zerg Air Unit
+
+
+
+
+
+
+
+
+
+
+
+
+
